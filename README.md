@@ -1,16 +1,27 @@
-### Hi there 👋
+### ¡Hola! 👋
 
-<!--
-**vjrivmon/vjrivmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Vicente Rivas Monferrer y soy estudiante universitario en la Universidad Politécnica de Valencia, cursando el Grado de Tecnologías Interactivas.
 
-Here are some ideas to get you started:
+#### Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Actualmente estoy trabajando en el desarrollo de una web para el aficionado de un equipo de fútbol.
+- 🌱 Estoy aprendiendo lenguajes de Programación como: C++, Java, Python, Javascript.
+- 👯 Busco colaborar en proyectos interesantes y desafiantes, para poder crecer como programador
+- 💬 Puedes preguntarme acerca de UX/UI.
+- 📫 Cómo contactarme: vicenterivasmonferrer12@gmail.com
+- ⚡ Dato curioso: [Algo interesante sobre ti].
+
+#### Proyectos Destacados
+
+- Territorio Granota
+- Grupo Scouts Osyris
+
+#### Habilidades
+
+- Lenguajes de programación: C++, Python, Javascript, HTML, CSS, Java
+- Tecnologías: HTML, CSS, JavaScript, React, Node.js, MySQL, Firebase, Azure
+- Herramientas: Git, C++, GitHub, Figma, Axure
+
+¡Estoy encantado de estar aquí y colaborar en muchos proyectos! No dudes en [contactarme](mailto:vicenterivasmonferrer12@gmail.com) para discutir ideas y futuras oportunidades de proyectos.
+
+¡Gracias por visitar mi perfil!
