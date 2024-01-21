@@ -9,12 +9,11 @@ Mi nombre es Vicente Rivas Monferrer y soy estudiante universitario en la Univer
 - 👯 Busco colaborar en proyectos interesantes y desafiantes, para poder crecer como programador
 - 💬 Puedes preguntarme acerca de UX/UI.
 - 📫 Cómo contactarme: vicenterivasmonferrer12@gmail.com
-- ⚡ Dato curioso: [Algo interesante sobre ti].
 
 #### Proyectos Destacados
 
 - Territorio Granota
-- Grupo Scouts Osyris
+- Grupo Scout Osyris
 
 #### Habilidades
 
