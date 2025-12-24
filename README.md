@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vicente%20Rivas%20Monferrer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20|%20Co-founder%20@Zyndra-UPV%20|%20Building%20Tech%20for%20Accessibility&descAlignY=51)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+AI+Systems+that+Serve+Those+Who+Need+Them+Most;LLMs+%7C+RAG+%7C+Computer+Vision+%7C+ROS2;National+Champion+%7C+Telefónica+Líderes+Digitales)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+AI+Systems+that+Serve+Those+Who+Need+Them+Most;LLMs+%7C+RAG+%7C+Computer+Vision+%7C+ROS2;National+Champion+%7C+Telefónica+Líderes+Digitales)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.vicenterivasmonferrer.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vicente-rivas-monferrer)
