@@ -68,9 +68,7 @@ I'm an AI Engineer who believes technology should serve those who need it most. 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vjrivmon&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=vjrivmon&theme=tokyonight&hide_border=true&cache_seconds=86400)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?vjrivmon=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
