@@ -38,7 +38,6 @@ I'm also a 4th-year **GTI student at UPV Gandia** and co-founder of **Zyndra**, 
 | **[VRLabs](https://vrlabs.es)** | Software studio site -- AI services, packs, pricing | Next.js 15, React 19, TypeScript |
 | **[Osyris-Web](https://gruposcoutosyris.es)** | Scout management platform serving 100+ families daily. Reduced admin work by 80% | Next.js, React, Express, PostgreSQL |
 | **[Strata-MCP](https://github.com/vjrivmon/strata-mcp)** | Academic research engine as MCP server -- paper analysis, gap detection, draft generation, arXiv scouting | Python, SQLite, Claude Code |
-| **[Encesa](https://encesa.vercel.app)** | PWA to capture Valencia fallas records. Offline-first, OCR, sync to Supabase | TypeScript, Next.js, Python, Supabase |
 | **[CatanLLM](https://github.com/vjrivmon/CatanLLM)** | LLM plays Catan in real-time -- benchmarking small models for strategic decisions | Python, LLMs |
 | **[Probabilidad Descenso](https://github.com/vjrivmon/probabilidad-descenso)** | LaLiga relegation probability with Elo + xG + form memory, Monte Carlo simulation | Python, pandas |
 | **[AidGuide](https://github.com/vjrivmon)** | Robotic guide dog for visually impaired -- 99.6% detection accuracy on 131 classes | ROS2, YOLOv8, Python, OpenCV |
